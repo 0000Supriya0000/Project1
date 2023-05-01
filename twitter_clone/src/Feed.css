@@ -1,0 +1,30 @@
+.feed{
+    flex:0.4;
+    border-right: 50px solid rgb(57, 227, 243) var(--twitter-background);
+    min-width: fit-content;
+    overflow-y: scroll;
+}
+
+.feed::-webkiy-scrollbar{
+    display:none;
+}
+.feed {
+    -ms-overflow-style: none;
+    scrollbar-width:none;
+}
+
+.feed_header{
+    position:sticky;
+    top: 0;
+    background-color: rgb(118, 240, 247);
+    z-index: 100px rgb(51, 227, 239);
+    border: 1px solid rgb(65, 193, 248) var (--twitter-background);
+    padding: 1px 2px
+}
+
+.feed_header > h1 {
+    font-size: 20px;
+    font-weight: 20px solid;
+    
+    
+}

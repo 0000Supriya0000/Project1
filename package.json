@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase": "^9.21.0",
+    "react-twitter-embed": "^4.0.4"
+  }
+}
