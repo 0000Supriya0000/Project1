@@ -1,0 +1,24 @@
+[{
+    "framework": "react",
+    "library" : "axio",
+    "link" : "https://www.bing.com/videos/search?q=npm+package+api&&view=detail&mid=D8A256EF3FDA5AEA088FD8A256EF3FDA5AEA088F&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3Dnpm%2Bpackage%2Bapi%26FORM%3DHDRSC4"
+
+    
+},
+
+{
+    "framework": "react",
+    "library" : "recoil",
+    "link" :"https://www.bing.com/videos/search?q=npm+package+api&&view=detail&mid=7CEA3CCC43C8337FB9397CEA3CCC43C8337FB939&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3Dnpm%2Bpackage%2Bapi%26FORM%3DHDRSC4"
+},
+
+{
+    "framework": "react",
+    "library" : "react-router",
+    "link":"https://www.bing.com/videos/search?q=recoil+react&&view=detail&mid=E8332664B083B3ECDC31E8332664B083B3ECDC31&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3Drecoil%2Breact%26go%3DSearch%26qs%3Dn%26form%3DQBVR%26sp%3D-1%26lq%3D0%26pq%3Drecoil%2Breac%26sc%3D10-11%26sk%3D%26cvid%3DEDA11EC45E3D4F4B9C5C693EC57450FD%26ghsh%3D0%26ghacc%3D0%26ghpl%3D"
+},
+{
+    "framework": "react",
+    "library" : "material ui"
+}
+]
